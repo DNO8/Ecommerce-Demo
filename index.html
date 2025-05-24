@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Consigue una obra de arte directamente en la web del artista, ven y revisa nuestros productos publicados de la artista Belen Sandoval.">
+    <script type="module" src="./src/index.mjs"></script>
+    <link rel="preload" href="./public/styles/estilos-belen-arte.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="./public/styles/estilos-belen-arte.css"></noscript>
+    
+    <title>Belén Arte</title>
+<body>
+    <header>
+        <navbar-component ></navbar-component>
+    </header>
+    <main id="app">
+        <section id="Home-layer">
+            <landing-view></landing-view>
+        </section>
+        <section id="Shop-layer">
+            <shop-view></shop-view>
+        </section>
+        <section id="About-layer">
+            <aboutact-view></aboutact-view>
+        </section>
+        <section id="Buy-layer">
+            <purchase-view></purchase-view>
+        </section>
+    </main>
+</body>
+</html>

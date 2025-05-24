@@ -1,0 +1,23 @@
+{
+  "name": "belen-arte",
+  "version": "1.0.0",
+  "main": "index.html",
+  "scripts": {
+    "start": "web-dev-server --node-resolve --open --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "gsap": "^3.12.7",
+    "lit": "^3.2.1",
+    "zod": "3.24.4"
+  },
+  "devDependencies": {
+    "@web/dev-server": "^0.4.6"
+  }
+}

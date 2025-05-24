@@ -1,0 +1,9453 @@
+[
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 410,
+    "name": "ACHAO",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 436,
+    "name": "AGUA BUENA",
+    "postal_code": null,
+    "region": {
+      "id": 8,
+      "name": "O'Higgins"
+    },
+    "region_id": 8,
+    "region_name": "O'Higgins"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 437,
+    "name": "AHUI",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 438,
+    "name": "AIQUINA",
+    "postal_code": null,
+    "region": {
+      "id": 3,
+      "name": "Antofagasta"
+    },
+    "region_id": 3,
+    "region_name": "Antofagasta"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 424,
+    "name": "ALERCE",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 439,
+    "name": "ALGARROBAL",
+    "postal_code": null,
+    "region": {
+      "id": 4,
+      "name": "Atacama"
+    },
+    "region_id": 4,
+    "region_name": "Atacama"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 440,
+    "name": "ALGARROBITO",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 68,
+    "name": "ALGARROBO",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 338,
+    "name": "ALHUE",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 441,
+    "name": "ALICAHUE",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 178,
+    "name": "ALTO BIOBIO",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 27,
+    "name": "ALTO DEL CARMEN",
+    "postal_code": null,
+    "region": {
+      "id": 4,
+      "name": "Atacama"
+    },
+    "region_id": 4,
+    "region_name": "Atacama"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 367,
+    "name": "ALTO EL CANELO",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 6,
+    "name": "ALTO HOSPICIO",
+    "postal_code": null,
+    "region": {
+      "id": 2,
+      "name": "Tarapaca"
+    },
+    "region_id": 2,
+    "region_name": "Tarapaca"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 383,
+    "name": "ALTO JAHUEL",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 442,
+    "name": "ALTOVALSOL",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 400,
+    "name": "ANCUAQUE",
+    "postal_code": null,
+    "region": {
+      "id": 2,
+      "name": "Tarapaca"
+    },
+    "region_id": 2,
+    "region_name": "Tarapaca"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 254,
+    "name": "ANCUD",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 32,
+    "name": "ANDACOLLO",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 221,
+    "name": "ANGOL",
+    "postal_code": null,
+    "region": {
+      "id": 11,
+      "name": "Araucania"
+    },
+    "region_id": 11,
+    "region_name": "Araucania"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 12,
+    "name": "ANTOFAGASTA",
+    "postal_code": null,
+    "region": {
+      "id": 3,
+      "name": "Antofagasta"
+    },
+    "region_id": 3,
+    "region_name": "Antofagasta"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 166,
+    "name": "ANTUCO",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 159,
+    "name": "ARAUCO",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 1,
+    "name": "ARICA",
+    "postal_code": null,
+    "region": {
+      "id": 1,
+      "name": "Arica y Parinacota"
+    },
+    "region_id": 1,
+    "region_name": "Arica y Parinacota"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 443,
+    "name": "ARTIFICIO",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 405,
+    "name": "AYSEN",
+    "postal_code": null,
+    "region": {
+      "id": 14,
+      "name": "Aysen"
+    },
+    "region_id": 14,
+    "region_name": "Aysen"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 444,
+    "name": "BAHIA INGLESA",
+    "postal_code": null,
+    "region": {
+      "id": 4,
+      "name": "Atacama"
+    },
+    "region_id": 4,
+    "region_name": "Atacama"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 445,
+    "name": "BAHIA MANSA",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 446,
+    "name": "BAHIA MURTA",
+    "postal_code": null,
+    "region": {
+      "id": 14,
+      "name": "Aysen"
+    },
+    "region_id": 14,
+    "region_name": "Aysen"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 447,
+    "name": "BALMACEDA",
+    "postal_code": null,
+    "region": {
+      "id": 14,
+      "name": "Aysen"
+    },
+    "region_id": 14,
+    "region_name": "Aysen"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 448,
+    "name": "BAQUEDANO",
+    "postal_code": null,
+    "region": {
+      "id": 3,
+      "name": "Antofagasta"
+    },
+    "region_id": 3,
+    "region_name": "Antofagasta"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 449,
+    "name": "BARRANCAS",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 765,
+    "name": "BARROS ARANA",
+    "postal_code": null,
+    "region": {
+      "id": 11,
+      "name": "Araucania"
+    },
+    "region_id": 11,
+    "region_name": "Araucania"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 364,
+    "name": "BATUCO",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 416,
+    "name": "BATUCO (TALCA)",
+    "postal_code": null,
+    "region": {
+      "id": 9,
+      "name": "Maule"
+    },
+    "region_id": 9,
+    "region_name": "Maule"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 450,
+    "name": "BELEN",
+    "postal_code": null,
+    "region": {
+      "id": 1,
+      "name": "Arica y Parinacota"
+    },
+    "region_id": 1,
+    "region_name": "Arica y Parinacota"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 452,
+    "name": "BOBADILLA",
+    "postal_code": null,
+    "region": {
+      "id": 9,
+      "name": "Maule"
+    },
+    "region_id": 9,
+    "region_name": "Maule"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 384,
+    "name": "BOLLENAR",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 453,
+    "name": "BUCALEMU",
+    "postal_code": null,
+    "region": {
+      "id": 8,
+      "name": "O'Higgins"
+    },
+    "region_id": 8,
+    "region_name": "O'Higgins"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 454,
+    "name": "BUCHUPUREO",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 334,
+    "name": "BUIN",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 180,
+    "name": "BULNES",
+    "postal_code": null,
+    "region": {
+      "id": 48,
+      "name": "Nuble"
+    },
+    "region_id": 48,
+    "region_name": "Nuble"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 58,
+    "name": "CABILDO",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 427,
+    "name": "CABO DE HORNOS",
+    "postal_code": null,
+    "region": {
+      "id": 15,
+      "name": "Magallanes"
+    },
+    "region_id": 15,
+    "region_name": "Magallanes"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 167,
+    "name": "CABRERO",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 455,
+    "name": "CABURGA",
+    "postal_code": null,
+    "region": {
+      "id": 11,
+      "name": "Araucania"
+    },
+    "region_id": 11,
+    "region_name": "Araucania"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 456,
+    "name": "CACHAGUA",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 350,
+    "name": "CACHAPOAL",
+    "postal_code": null,
+    "region": {
+      "id": 48,
+      "name": "Nuble"
+    },
+    "region_id": 48,
+    "region_name": "Nuble"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 457,
+    "name": "CAHUIL",
+    "postal_code": null,
+    "region": {
+      "id": 8,
+      "name": "O'Higgins"
+    },
+    "region_id": 8,
+    "region_name": "O'Higgins"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 458,
+    "name": "CAIMANES",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 459,
+    "name": "CAJON",
+    "postal_code": null,
+    "region": {
+      "id": 11,
+      "name": "Araucania"
+    },
+    "region_id": 11,
+    "region_name": "Araucania"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 365,
+    "name": "CAJON DEL MAIPO",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 460,
+    "name": "CALAFQUEN",
+    "postal_code": null,
+    "region": {
+      "id": 12,
+      "name": "Los Rios"
+    },
+    "region_id": 12,
+    "region_name": "Los Rios"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 16,
+    "name": "CALAMA",
+    "postal_code": null,
+    "region": {
+      "id": 3,
+      "name": "Antofagasta"
+    },
+    "region_id": 3,
+    "region_name": "Antofagasta"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 245,
+    "name": "CALBUCO",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 22,
+    "name": "CALDERA",
+    "postal_code": null,
+    "region": {
+      "id": 4,
+      "name": "Atacama"
+    },
+    "region_id": 4,
+    "region_name": "Atacama"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 335,
+    "name": "CALERA DE TANGO",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 399,
+    "name": "CALETA BUENA",
+    "postal_code": null,
+    "region": {
+      "id": 3,
+      "name": "Antofagasta"
+    },
+    "region_id": 3,
+    "region_name": "Antofagasta"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 462,
+    "name": "CALETA GONZALO",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 463,
+    "name": "CALETONES",
+    "postal_code": null,
+    "region": {
+      "id": 8,
+      "name": "O'Higgins"
+    },
+    "region_id": 8,
+    "region_name": "O'Higgins"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 54,
+    "name": "CALLE LARGA",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 464,
+    "name": "CAMARICO",
+    "postal_code": null,
+    "region": {
+      "id": 9,
+      "name": "Maule"
+    },
+    "region_id": 9,
+    "region_name": "Maule"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 2,
+    "name": "CAMARONES",
+    "postal_code": null,
+    "region": {
+      "id": 1,
+      "name": "Arica y Parinacota"
+    },
+    "region_id": 1,
+    "region_name": "Arica y Parinacota"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 465,
+    "name": "CAMERON",
+    "postal_code": null,
+    "region": {
+      "id": 15,
+      "name": "Magallanes"
+    },
+    "region_id": 15,
+    "region_name": "Magallanes"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 8,
+    "name": "CAMINA",
+    "postal_code": null,
+    "region": {
+      "id": 2,
+      "name": "Tarapaca"
+    },
+    "region_id": 2,
+    "region_name": "Tarapaca"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 466,
+    "name": "CAMPANARIO",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 401,
+    "name": "CANCOSA",
+    "postal_code": null,
+    "region": {
+      "id": 2,
+      "name": "Tarapaca"
+    },
+    "region_id": 2,
+    "region_name": "Tarapaca"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 37,
+    "name": "CANELA",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 160,
+    "name": "CANETE",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 467,
+    "name": "CANTO DE AGUA",
+    "postal_code": null,
+    "region": {
+      "id": 4,
+      "name": "Atacama"
+    },
+    "region_id": 4,
+    "region_name": "Atacama"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 468,
+    "name": "CAPITAN PASTENE",
+    "postal_code": null,
+    "region": {
+      "id": 11,
+      "name": "Araucania"
+    },
+    "region_id": 11,
+    "region_name": "Araucania"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 469,
+    "name": "CAQUENA",
+    "postal_code": null,
+    "region": {
+      "id": 1,
+      "name": "Arica y Parinacota"
+    },
+    "region_id": 1,
+    "region_name": "Arica y Parinacota"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 201,
+    "name": "CARAHUE",
+    "postal_code": null,
+    "region": {
+      "id": 11,
+      "name": "Araucania"
+    },
+    "region_id": 11,
+    "region_name": "Araucania"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 470,
+    "name": "CARAMPANGUE",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 471,
+    "name": "CARELMAPU",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 472,
+    "name": "CAREN",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 473,
+    "name": "CARIQUIMA",
+    "postal_code": null,
+    "region": {
+      "id": 2,
+      "name": "Tarapaca"
+    },
+    "region_id": 2,
+    "region_name": "Tarapaca"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 474,
+    "name": "CARRIZAL BAJO",
+    "postal_code": null,
+    "region": {
+      "id": 4,
+      "name": "Atacama"
+    },
+    "region_id": 4,
+    "region_name": "Atacama"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 69,
+    "name": "CARTAGENA",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 46,
+    "name": "CASABLANCA",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 475,
+    "name": "CASPANA",
+    "postal_code": null,
+    "region": {
+      "id": 3,
+      "name": "Antofagasta"
+    },
+    "region_id": 3,
+    "region_name": "Antofagasta"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 253,
+    "name": "CASTRO",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 476,
+    "name": "CATAPILCO",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 74,
+    "name": "CATEMU",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 477,
+    "name": "CAULIN",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 126,
+    "name": "CAUQUENES",
+    "postal_code": null,
+    "region": {
+      "id": 9,
+      "name": "Maule"
+    },
+    "region_id": 9,
+    "region_name": "Maule"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 478,
+    "name": "CAYUCUPIL",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 296,
+    "name": "CERRILLOS",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 479,
+    "name": "CERRILLOS DE TAMAYA",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 297,
+    "name": "CERRO NAVIA",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 480,
+    "name": "CERRO SOMBRERO",
+    "postal_code": null,
+    "region": {
+      "id": 15,
+      "name": "Magallanes"
+    },
+    "region_id": 15,
+    "region_name": "Magallanes"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 481,
+    "name": "CHACAO",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 270,
+    "name": "CHAITEN",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 385,
+    "name": "CHAMPA",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 24,
+    "name": "CHANARAL",
+    "postal_code": null,
+    "region": {
+      "id": 4,
+      "name": "Atacama"
+    },
+    "region_id": 4,
+    "region_name": "Atacama"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 482,
+    "name": "CHANARAL ALTO",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 483,
+    "name": "CHANARAL DE CAREN",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 127,
+    "name": "CHANCO",
+    "postal_code": null,
+    "region": {
+      "id": 9,
+      "name": "Maule"
+    },
+    "region_id": 9,
+    "region_name": "Maule"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 484,
+    "name": "CHARRUA",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 485,
+    "name": "CHAUQUEN",
+    "postal_code": null,
+    "region": {
+      "id": 12,
+      "name": "Los Rios"
+    },
+    "region_id": 12,
+    "region_name": "Los Rios"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 107,
+    "name": "CHEPICA",
+    "postal_code": null,
+    "region": {
+      "id": 8,
+      "name": "O'Higgins"
+    },
+    "region_id": 8,
+    "region_name": "O'Higgins"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 486,
+    "name": "CHEPU",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 487,
+    "name": "CHERCHENCO",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 386,
+    "name": "CHICUREO",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 148,
+    "name": "CHIGUAYANTE",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 282,
+    "name": "CHILE CHICO",
+    "postal_code": null,
+    "region": {
+      "id": 14,
+      "name": "Aysen"
+    },
+    "region_id": 14,
+    "region_name": "Aysen"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 179,
+    "name": "CHILLAN",
+    "postal_code": null,
+    "region": {
+      "id": 48,
+      "name": "Nuble"
+    },
+    "region_id": 48,
+    "region_name": "Nuble"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 184,
+    "name": "CHILLAN VIEJO",
+    "postal_code": null,
+    "region": {
+      "id": 48,
+      "name": "Nuble"
+    },
+    "region_id": 48,
+    "region_name": "Nuble"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 488,
+    "name": "CHILLEPIN",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 108,
+    "name": "CHIMBARONGO",
+    "postal_code": null,
+    "region": {
+      "id": 8,
+      "name": "O'Higgins"
+    },
+    "region_id": 8,
+    "region_name": "O'Higgins"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 387,
+    "name": "CHOCALAN",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 220,
+    "name": "CHOLCHOL",
+    "postal_code": null,
+    "region": {
+      "id": 11,
+      "name": "Araucania"
+    },
+    "region_id": 11,
+    "region_name": "Araucania"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 489,
+    "name": "CHOLGUAN",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 255,
+    "name": "CHONCHI",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 490,
+    "name": "CHOSHUENCO",
+    "postal_code": null,
+    "region": {
+      "id": 12,
+      "name": "Los Rios"
+    },
+    "region_id": 12,
+    "region_name": "Los Rios"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 491,
+    "name": "CIRUELOS",
+    "postal_code": null,
+    "region": {
+      "id": 8,
+      "name": "O'Higgins"
+    },
+    "region_id": 8,
+    "region_name": "O'Higgins"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 366,
+    "name": "CIUDAD DE LOS VALLES",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 492,
+    "name": "COBIJA",
+    "postal_code": null,
+    "region": {
+      "id": 3,
+      "name": "Antofagasta"
+    },
+    "region_id": 3,
+    "region_name": "Antofagasta"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 181,
+    "name": "COBQUECURA",
+    "postal_code": null,
+    "region": {
+      "id": 48,
+      "name": "Nuble"
+    },
+    "region_id": 48,
+    "region_name": "Nuble"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 246,
+    "name": "COCHAMO",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 279,
+    "name": "COCHRANE",
+    "postal_code": null,
+    "region": {
+      "id": 14,
+      "name": "Aysen"
+    },
+    "region_id": 14,
+    "region_name": "Aysen"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 84,
+    "name": "CODEGUA",
+    "postal_code": null,
+    "region": {
+      "id": 8,
+      "name": "O'Higgins"
+    },
+    "region_id": 8,
+    "region_name": "O'Higgins"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 493,
+    "name": "CODELCO RADOMIRO TOMIC",
+    "postal_code": null,
+    "region": {
+      "id": 3,
+      "name": "Antofagasta"
+    },
+    "region_id": 3,
+    "region_name": "Antofagasta"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 388,
+    "name": "CODIGUA",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 494,
+    "name": "CODPA",
+    "postal_code": null,
+    "region": {
+      "id": 1,
+      "name": "Arica y Parinacota"
+    },
+    "region_id": 1,
+    "region_name": "Arica y Parinacota"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 182,
+    "name": "COELEMU",
+    "postal_code": null,
+    "region": {
+      "id": 48,
+      "name": "Nuble"
+    },
+    "region_id": 48,
+    "region_name": "Nuble"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 495,
+    "name": "COIHUE",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 183,
+    "name": "COIHUECO",
+    "postal_code": null,
+    "region": {
+      "id": 48,
+      "name": "Nuble"
+    },
+    "region_id": 48,
+    "region_name": "Nuble"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 85,
+    "name": "COINCO",
+    "postal_code": null,
+    "region": {
+      "id": 8,
+      "name": "O'Higgins"
+    },
+    "region_id": 8,
+    "region_name": "O'Higgins"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 139,
+    "name": "COLBUN",
+    "postal_code": null,
+    "region": {
+      "id": 9,
+      "name": "Maule"
+    },
+    "region_id": 9,
+    "region_name": "Maule"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 9,
+    "name": "COLCHANE",
+    "postal_code": null,
+    "region": {
+      "id": 2,
+      "name": "Tarapaca"
+    },
+    "region_id": 2,
+    "region_name": "Tarapaca"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 330,
+    "name": "COLINA",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 496,
+    "name": "COLIUMO",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 497,
+    "name": "COLLACAGUA",
+    "postal_code": null,
+    "region": {
+      "id": 2,
+      "name": "Tarapaca"
+    },
+    "region_id": 2,
+    "region_name": "Tarapaca"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 222,
+    "name": "COLLIPULLI",
+    "postal_code": null,
+    "region": {
+      "id": 11,
+      "name": "Araucania"
+    },
+    "region_id": 11,
+    "region_name": "Araucania"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 86,
+    "name": "COLTAUCO",
+    "postal_code": null,
+    "region": {
+      "id": 8,
+      "name": "O'Higgins"
+    },
+    "region_id": 8,
+    "region_name": "O'Higgins"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 41,
+    "name": "COMBARBALA",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 498,
+    "name": "CONARIPE",
+    "postal_code": null,
+    "region": {
+      "id": 11,
+      "name": "Araucania"
+    },
+    "region_id": 11,
+    "region_name": "Araucania"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 499,
+    "name": "CONAY",
+    "postal_code": null,
+    "region": {
+      "id": 4,
+      "name": "Atacama"
+    },
+    "region_id": 4,
+    "region_name": "Atacama"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 146,
+    "name": "CONCEPCION",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 298,
+    "name": "CONCHALI",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 47,
+    "name": "CONCON",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 117,
+    "name": "CONSTITUCION",
+    "postal_code": null,
+    "region": {
+      "id": 9,
+      "name": "Maule"
+    },
+    "region_id": 9,
+    "region_name": "Maule"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 161,
+    "name": "CONTULMO",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 21,
+    "name": "COPIAPO",
+    "postal_code": null,
+    "region": {
+      "id": 4,
+      "name": "Atacama"
+    },
+    "region_id": 4,
+    "region_name": "Atacama"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 31,
+    "name": "COQUIMBO",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 147,
+    "name": "CORONEL",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 233,
+    "name": "CORRAL",
+    "postal_code": null,
+    "region": {
+      "id": 12,
+      "name": "Los Rios"
+    },
+    "region_id": 12,
+    "region_name": "Los Rios"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 500,
+    "name": "COSAPILLA",
+    "postal_code": null,
+    "region": {
+      "id": 1,
+      "name": "Arica y Parinacota"
+    },
+    "region_id": 1,
+    "region_name": "Arica y Parinacota"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 501,
+    "name": "COYA",
+    "postal_code": null,
+    "region": {
+      "id": 8,
+      "name": "O'Higgins"
+    },
+    "region_id": 8,
+    "region_name": "O'Higgins"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 274,
+    "name": "COYHAIQUE",
+    "postal_code": null,
+    "region": {
+      "id": 14,
+      "name": "Aysen"
+    },
+    "region_id": 14,
+    "region_name": "Aysen"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 502,
+    "name": "COZ COZ",
+    "postal_code": null,
+    "region": {
+      "id": 12,
+      "name": "Los Rios"
+    },
+    "region_id": 12,
+    "region_name": "Los Rios"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 503,
+    "name": "CULENAR",
+    "postal_code": null,
+    "region": {
+      "id": 9,
+      "name": "Maule"
+    },
+    "region_id": 9,
+    "region_name": "Maule"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 389,
+    "name": "CULIPRAN",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 504,
+    "name": "CUMPEO",
+    "postal_code": null,
+    "region": {
+      "id": 9,
+      "name": "Maule"
+    },
+    "region_id": 9,
+    "region_name": "Maule"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 505,
+    "name": "CUNACO",
+    "postal_code": null,
+    "region": {
+      "id": 8,
+      "name": "O'Higgins"
+    },
+    "region_id": 8,
+    "region_name": "O'Higgins"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 202,
+    "name": "CUNCO",
+    "postal_code": null,
+    "region": {
+      "id": 11,
+      "name": "Araucania"
+    },
+    "region_id": 11,
+    "region_name": "Araucania"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 506,
+    "name": "CUNCUMEN",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 223,
+    "name": "CURACAUTIN",
+    "postal_code": null,
+    "region": {
+      "id": 11,
+      "name": "Araucania"
+    },
+    "region_id": 11,
+    "region_name": "Araucania"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 339,
+    "name": "CURACAVI",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 256,
+    "name": "CURACO DE VELEZ",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 162,
+    "name": "CURANILAHUE",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 507,
+    "name": "CURANIPE",
+    "postal_code": null,
+    "region": {
+      "id": 9,
+      "name": "Maule"
+    },
+    "region_id": 9,
+    "region_name": "Maule"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 203,
+    "name": "CURARREHUE",
+    "postal_code": null,
+    "region": {
+      "id": 11,
+      "name": "Araucania"
+    },
+    "region_id": 11,
+    "region_name": "Araucania"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 412,
+    "name": "CURAUMA",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 118,
+    "name": "CUREPTO",
+    "postal_code": null,
+    "region": {
+      "id": 9,
+      "name": "Maule"
+    },
+    "region_id": 9,
+    "region_name": "Maule"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 129,
+    "name": "CURICO",
+    "postal_code": null,
+    "region": {
+      "id": 9,
+      "name": "Maule"
+    },
+    "region_id": 9,
+    "region_name": "Maule"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 390,
+    "name": "CURIMON",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 508,
+    "name": "CURINANCO",
+    "postal_code": null,
+    "region": {
+      "id": 12,
+      "name": "Los Rios"
+    },
+    "region_id": 12,
+    "region_name": "Los Rios"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 509,
+    "name": "CUYA",
+    "postal_code": null,
+    "region": {
+      "id": 1,
+      "name": "Arica y Parinacota"
+    },
+    "region_id": 1,
+    "region_name": "Arica y Parinacota"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 257,
+    "name": "DALCAHUE",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 510,
+    "name": "DEGAN",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 511,
+    "name": "DICHATO",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 25,
+    "name": "DIEGO DE ALMAGRO",
+    "postal_code": null,
+    "region": {
+      "id": 4,
+      "name": "Atacama"
+    },
+    "region_id": 4,
+    "region_name": "Atacama"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 512,
+    "name": "DOMEYKO",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 87,
+    "name": "DONIHUE",
+    "postal_code": null,
+    "region": {
+      "id": 8,
+      "name": "O'Higgins"
+    },
+    "region_id": 8,
+    "region_name": "O'Higgins"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 513,
+    "name": "DUAO",
+    "postal_code": null,
+    "region": {
+      "id": 9,
+      "name": "Maule"
+    },
+    "region_id": 9,
+    "region_name": "Maule"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 514,
+    "name": "EL BELLOTO",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 299,
+    "name": "EL BOSQUE",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 391,
+    "name": "EL CANELO",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 185,
+    "name": "EL CARMEN",
+    "postal_code": null,
+    "region": {
+      "id": 48,
+      "name": "Nuble"
+    },
+    "region_id": 48,
+    "region_name": "Nuble"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 515,
+    "name": "EL CARMEN RENGO",
+    "postal_code": null,
+    "region": {
+      "id": 8,
+      "name": "O'Higgins"
+    },
+    "region_id": 8,
+    "region_name": "O'Higgins"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 516,
+    "name": "EL COLORADO",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 517,
+    "name": "EL HINOJAL",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 368,
+    "name": "EL INGENIO",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 518,
+    "name": "EL MANZANO",
+    "postal_code": null,
+    "region": {
+      "id": 8,
+      "name": "O'Higgins"
+    },
+    "region_id": 8,
+    "region_name": "O'Higgins"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 392,
+    "name": "EL MELOCOTON",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 519,
+    "name": "EL MELON",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 393,
+    "name": "EL MEMBRILLO",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 520,
+    "name": "EL MOLLE",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 343,
+    "name": "EL MONTE",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 521,
+    "name": "EL PAICO",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 522,
+    "name": "EL PALQUI",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 523,
+    "name": "EL PENON",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 70,
+    "name": "EL QUISCO",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 348,
+    "name": "EL SALVADOR",
+    "postal_code": null,
+    "region": {
+      "id": 4,
+      "name": "Atacama"
+    },
+    "region_id": 4,
+    "region_name": "Atacama"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 524,
+    "name": "EL SAUCE",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 525,
+    "name": "EL TABITO",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 71,
+    "name": "EL TABO",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 526,
+    "name": "EL TAMBO",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 527,
+    "name": "EL TANGUE",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 119,
+    "name": "EMPEDRADO",
+    "postal_code": null,
+    "region": {
+      "id": 9,
+      "name": "Maule"
+    },
+    "region_id": 9,
+    "region_name": "Maule"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 528,
+    "name": "ENSENADA",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 529,
+    "name": "ENTRE LAGOS",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 224,
+    "name": "ERCILLA",
+    "postal_code": null,
+    "region": {
+      "id": 11,
+      "name": "Araucania"
+    },
+    "region_id": 11,
+    "region_name": "Araucania"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 530,
+    "name": "ESQUINA",
+    "postal_code": null,
+    "region": {
+      "id": 1,
+      "name": "Arica y Parinacota"
+    },
+    "region_id": 1,
+    "region_name": "Arica y Parinacota"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 300,
+    "name": "ESTACION CENTRAL",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 532,
+    "name": "FARELLONES - LO BARNECHEA",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 428,
+    "name": "FLORIDA",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 204,
+    "name": "FREIRE",
+    "postal_code": null,
+    "region": {
+      "id": 11,
+      "name": "Araucania"
+    },
+    "region_id": 11,
+    "region_name": "Araucania"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 28,
+    "name": "FREIRINA",
+    "postal_code": null,
+    "region": {
+      "id": 4,
+      "name": "Atacama"
+    },
+    "region_id": 4,
+    "region_name": "Atacama"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 247,
+    "name": "FRESIA",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 248,
+    "name": "FRUTILLAR",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 764,
+    "name": "FUERTE BAQUEDANO",
+    "postal_code": null,
+    "region": {
+      "id": 3,
+      "name": "Antofagasta"
+    },
+    "region_id": 3,
+    "region_name": "Antofagasta"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 271,
+    "name": "FUTALEUFU",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 241,
+    "name": "FUTRONO",
+    "postal_code": null,
+    "region": {
+      "id": 12,
+      "name": "Los Rios"
+    },
+    "region_id": 12,
+    "region_name": "Los Rios"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 533,
+    "name": "GABRIELA MISTRAL",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 205,
+    "name": "GALVARINO",
+    "postal_code": null,
+    "region": {
+      "id": 11,
+      "name": "Araucania"
+    },
+    "region_id": 11,
+    "region_name": "Araucania"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 4,
+    "name": "GENERAL LAGOS",
+    "postal_code": null,
+    "region": {
+      "id": 1,
+      "name": "Arica y Parinacota"
+    },
+    "region_id": 1,
+    "region_name": "Arica y Parinacota"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 206,
+    "name": "GORBEA",
+    "postal_code": null,
+    "region": {
+      "id": 11,
+      "name": "Araucania"
+    },
+    "region_id": 11,
+    "region_name": "Araucania"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 88,
+    "name": "GRANEROS",
+    "postal_code": null,
+    "region": {
+      "id": 8,
+      "name": "O'Higgins"
+    },
+    "region_id": 8,
+    "region_name": "O'Higgins"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 534,
+    "name": "GUADAL",
+    "postal_code": null,
+    "region": {
+      "id": 14,
+      "name": "Aysen"
+    },
+    "region_id": 14,
+    "region_name": "Aysen"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 278,
+    "name": "GUAITECAS",
+    "postal_code": null,
+    "region": {
+      "id": 14,
+      "name": "Aysen"
+    },
+    "region_id": 14,
+    "region_name": "Aysen"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 535,
+    "name": "GUALLECO",
+    "postal_code": null,
+    "region": {
+      "id": 9,
+      "name": "Maule"
+    },
+    "region_id": 9,
+    "region_name": "Maule"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 536,
+    "name": "GUANAQUEROS",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 537,
+    "name": "GUANGUALI",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 538,
+    "name": "GUAPILACUY",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 539,
+    "name": "GUARDIA VIEJA",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 394,
+    "name": "GUAYACAN",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 540,
+    "name": "HACIENDA LOS ANDES",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 64,
+    "name": "HIJUELAS",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 541,
+    "name": "HORCON",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 542,
+    "name": "HORCON IV",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 543,
+    "name": "HORNITOS",
+    "postal_code": null,
+    "region": {
+      "id": 3,
+      "name": "Antofagasta"
+    },
+    "region_id": 3,
+    "region_name": "Antofagasta"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 356,
+    "name": "HORNOPIREN",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 544,
+    "name": "HOSPITAL",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 272,
+    "name": "HUALAIHUE",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 130,
+    "name": "HUALANE",
+    "postal_code": null,
+    "region": {
+      "id": 9,
+      "name": "Maule"
+    },
+    "region_id": 9,
+    "region_name": "Maule"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 157,
+    "name": "HUALPEN",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 545,
+    "name": "HUALPENCILLO",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 150,
+    "name": "HUALQUI",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 546,
+    "name": "HUAMALATA",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 10,
+    "name": "HUARA",
+    "postal_code": null,
+    "region": {
+      "id": 2,
+      "name": "Tarapaca"
+    },
+    "region_id": 2,
+    "region_name": "Tarapaca"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 29,
+    "name": "HUASCO",
+    "postal_code": null,
+    "region": {
+      "id": 4,
+      "name": "Atacama"
+    },
+    "region_id": 4,
+    "region_name": "Atacama"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 301,
+    "name": "HUECHURABA",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 547,
+    "name": "HUELDEN",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 548,
+    "name": "HUELLAHUE",
+    "postal_code": null,
+    "region": {
+      "id": 12,
+      "name": "Los Rios"
+    },
+    "region_id": 12,
+    "region_name": "Los Rios"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 369,
+    "name": "HUELQUEN",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 549,
+    "name": "HUENTELAUQUEN",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 550,
+    "name": "HUEPIL",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 551,
+    "name": "HUILLINCO",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 552,
+    "name": "HUINTIL",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 553,
+    "name": "ICALMA",
+    "postal_code": null,
+    "region": {
+      "id": 11,
+      "name": "Araucania"
+    },
+    "region_id": 11,
+    "region_name": "Araucania"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 36,
+    "name": "ILLAPEL",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 554,
+    "name": "ILOCA",
+    "postal_code": null,
+    "region": {
+      "id": 9,
+      "name": "Maule"
+    },
+    "region_id": 9,
+    "region_name": "Maule"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 302,
+    "name": "INDEPENDENCIA",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 5,
+    "name": "IQUIQUE",
+    "postal_code": null,
+    "region": {
+      "id": 2,
+      "name": "Tarapaca"
+    },
+    "region_id": 2,
+    "region_name": "Tarapaca"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 344,
+    "name": "ISLA DE MAIPO",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 52,
+    "name": "ISLA DE PASCUA",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 555,
+    "name": "ISLA NEGRA",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 556,
+    "name": "ISLA TEJA",
+    "postal_code": null,
+    "region": {
+      "id": 12,
+      "name": "Los Rios"
+    },
+    "region_id": 12,
+    "region_name": "Los Rios"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 557,
+    "name": "ISLUGA",
+    "postal_code": null,
+    "region": {
+      "id": 2,
+      "name": "Tarapaca"
+    },
+    "region_id": 2,
+    "region_name": "Tarapaca"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 558,
+    "name": "ITAHUE",
+    "postal_code": null,
+    "region": {
+      "id": 9,
+      "name": "Maule"
+    },
+    "region_id": 9,
+    "region_name": "Maule"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 48,
+    "name": "JUAN FERNANDEZ",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 395,
+    "name": "JUNCAL",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 559,
+    "name": "LA ARENA",
+    "postal_code": null,
+    "region": {
+      "id": 4,
+      "name": "Atacama"
+    },
+    "region_id": 4,
+    "region_name": "Atacama"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 347,
+    "name": "LA CALERA",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 560,
+    "name": "LA CEBADA",
+    "postal_code": null,
+    "region": {
+      "id": 8,
+      "name": "O'Higgins"
+    },
+    "region_id": 8,
+    "region_name": "O'Higgins"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 561,
+    "name": "LA CHIMBA",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 303,
+    "name": "LA CISTERNA",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 65,
+    "name": "LA CRUZ",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 101,
+    "name": "LA ESTRELLA",
+    "postal_code": null,
+    "region": {
+      "id": 8,
+      "name": "O'Higgins"
+    },
+    "region_id": 8,
+    "region_name": "O'Higgins"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 304,
+    "name": "LA FLORIDA",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 305,
+    "name": "LA GRANJA",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 562,
+    "name": "LA HAUYCA",
+    "postal_code": null,
+    "region": {
+      "id": 2,
+      "name": "Tarapaca"
+    },
+    "region_id": 2,
+    "region_name": "Tarapaca"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 33,
+    "name": "LA HIGUERA",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 563,
+    "name": "LA JARILLA",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 406,
+    "name": "LA JUNTA",
+    "postal_code": null,
+    "region": {
+      "id": 14,
+      "name": "Aysen"
+    },
+    "region_id": 14,
+    "region_name": "Aysen"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 57,
+    "name": "LA LIGUA",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 564,
+    "name": "LA MARQUESA",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 565,
+    "name": "LA NEGRA",
+    "postal_code": null,
+    "region": {
+      "id": 3,
+      "name": "Antofagasta"
+    },
+    "region_id": 3,
+    "region_name": "Antofagasta"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 566,
+    "name": "LA OBRA",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 567,
+    "name": "LA PARVA",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 306,
+    "name": "LA PINTANA",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 568,
+    "name": "LA PLACILLA (PUNITAQUI)",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 307,
+    "name": "LA REINA",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 569,
+    "name": "LA RUFINA",
+    "postal_code": null,
+    "region": {
+      "id": 8,
+      "name": "O'Higgins"
+    },
+    "region_id": 8,
+    "region_name": "O'Higgins"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 30,
+    "name": "LA SERENA",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 570,
+    "name": "LA TAPERA",
+    "postal_code": null,
+    "region": {
+      "id": 14,
+      "name": "Aysen"
+    },
+    "region_id": 14,
+    "region_name": "Aysen"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 571,
+    "name": "LA TIRANA",
+    "postal_code": null,
+    "region": {
+      "id": 2,
+      "name": "Tarapaca"
+    },
+    "region_id": 2,
+    "region_name": "Tarapaca"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 240,
+    "name": "LA UNION",
+    "postal_code": null,
+    "region": {
+      "id": 12,
+      "name": "Los Rios"
+    },
+    "region_id": 12,
+    "region_name": "Los Rios"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 572,
+    "name": "LABRANZA",
+    "postal_code": null,
+    "region": {
+      "id": 11,
+      "name": "Araucania"
+    },
+    "region_id": 11,
+    "region_name": "Araucania"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 242,
+    "name": "LAGO RANCO",
+    "postal_code": null,
+    "region": {
+      "id": 12,
+      "name": "Los Rios"
+    },
+    "region_id": 12,
+    "region_name": "Los Rios"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 275,
+    "name": "LAGO VERDE",
+    "postal_code": null,
+    "region": {
+      "id": 14,
+      "name": "Aysen"
+    },
+    "region_id": 14,
+    "region_name": "Aysen"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 370,
+    "name": "LAGUNA ACULEO",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 285,
+    "name": "LAGUNA BLANCA",
+    "postal_code": null,
+    "region": {
+      "id": 15,
+      "name": "Magallanes"
+    },
+    "region_id": 15,
+    "region_name": "Magallanes"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 573,
+    "name": "LAGUNA VERDE",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 574,
+    "name": "LAGUNILLAS",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 168,
+    "name": "LAJA",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 575,
+    "name": "LAJAS BLANCAS",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 331,
+    "name": "LAMPA",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 234,
+    "name": "LANCO",
+    "postal_code": null,
+    "region": {
+      "id": 12,
+      "name": "Los Rios"
+    },
+    "region_id": 12,
+    "region_name": "Los Rios"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 576,
+    "name": "LARAQUETE",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 577,
+    "name": "LARMAHUE",
+    "postal_code": null,
+    "region": {
+      "id": 8,
+      "name": "O'Higgins"
+    },
+    "region_id": 8,
+    "region_name": "O'Higgins"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 578,
+    "name": "LAS BREAS",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 89,
+    "name": "LAS CABRAS",
+    "postal_code": null,
+    "region": {
+      "id": 8,
+      "name": "O'Higgins"
+    },
+    "region_id": 8,
+    "region_name": "O'Higgins"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 425,
+    "name": "LAS CARDAS",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 426,
+    "name": "LAS CARDAS SUR",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 308,
+    "name": "LAS CONDES",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 579,
+    "name": "LAS CRUCES",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 580,
+    "name": "LAS DICHAS",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 581,
+    "name": "LAS DUNAS",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 582,
+    "name": "LAS NIEVES",
+    "postal_code": null,
+    "region": {
+      "id": 8,
+      "name": "O'Higgins"
+    },
+    "region_id": 8,
+    "region_name": "O'Higgins"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 583,
+    "name": "LAS RAMADAS DE TULAHUEN",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 584,
+    "name": "LAS TACAS",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 585,
+    "name": "LAS TRANCAS",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 586,
+    "name": "LAS VENTANAS",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 371,
+    "name": "LAS VERTIENTES",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 587,
+    "name": "LASANA",
+    "postal_code": null,
+    "region": {
+      "id": 3,
+      "name": "Antofagasta"
+    },
+    "region_id": 3,
+    "region_name": "Antofagasta"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 207,
+    "name": "LAUTARO",
+    "postal_code": null,
+    "region": {
+      "id": 11,
+      "name": "Araucania"
+    },
+    "region_id": 11,
+    "region_name": "Araucania"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 158,
+    "name": "LEBU",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 588,
+    "name": "LECHAGUA",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 589,
+    "name": "LEYDA",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 590,
+    "name": "LICANRAY",
+    "postal_code": null,
+    "region": {
+      "id": 11,
+      "name": "Araucania"
+    },
+    "region_id": 11,
+    "region_name": "Araucania"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 131,
+    "name": "LICANTEN",
+    "postal_code": null,
+    "region": {
+      "id": 9,
+      "name": "Maule"
+    },
+    "region_id": 9,
+    "region_name": "Maule"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 80,
+    "name": "LIMACHE",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 591,
+    "name": "LIMARI",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 592,
+    "name": "LINAO",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 138,
+    "name": "LINARES",
+    "postal_code": null,
+    "region": {
+      "id": 9,
+      "name": "Maule"
+    },
+    "region_id": 9,
+    "region_name": "Maule"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 372,
+    "name": "LINDEROS",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 593,
+    "name": "LIQUINE",
+    "postal_code": null,
+    "region": {
+      "id": 11,
+      "name": "Araucania"
+    },
+    "region_id": 11,
+    "region_name": "Araucania"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 594,
+    "name": "LIRIMA",
+    "postal_code": null,
+    "region": {
+      "id": 2,
+      "name": "Tarapaca"
+    },
+    "region_id": 2,
+    "region_name": "Tarapaca"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 595,
+    "name": "LIRQUEN",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 102,
+    "name": "LITUECHE",
+    "postal_code": null,
+    "region": {
+      "id": 8,
+      "name": "O'Higgins"
+    },
+    "region_id": 8,
+    "region_name": "O'Higgins"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 75,
+    "name": "LLAILLAY",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 596,
+    "name": "LLANOS DE GUANTA",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 250,
+    "name": "LLANQUIHUE",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 597,
+    "name": "LLICO",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 598,
+    "name": "LLIFEN",
+    "postal_code": null,
+    "region": {
+      "id": 12,
+      "name": "Los Rios"
+    },
+    "region_id": 12,
+    "region_name": "Los Rios"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 407,
+    "name": "LLOLLEO",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 309,
+    "name": "LO BARNECHEA",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 396,
+    "name": "LO CHACON",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 310,
+    "name": "LO ESPEJO",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 599,
+    "name": "LO MIRANDA",
+    "postal_code": null,
+    "region": {
+      "id": 8,
+      "name": "O'Higgins"
+    },
+    "region_id": 8,
+    "region_name": "O'Higgins"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 311,
+    "name": "LO PRADO",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 373,
+    "name": "LO VALDES",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 600,
+    "name": "LO VALDIVIA",
+    "postal_code": null,
+    "region": {
+      "id": 9,
+      "name": "Maule"
+    },
+    "region_id": 9,
+    "region_name": "Maule"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 109,
+    "name": "LOLOL",
+    "postal_code": null,
+    "region": {
+      "id": 8,
+      "name": "O'Higgins"
+    },
+    "region_id": 8,
+    "region_name": "O'Higgins"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 374,
+    "name": "LOMAS DE LO AGUIRRE",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 208,
+    "name": "LONCOCHE",
+    "postal_code": null,
+    "region": {
+      "id": 11,
+      "name": "Araucania"
+    },
+    "region_id": 11,
+    "region_name": "Araucania"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 140,
+    "name": "LONGAVI",
+    "postal_code": null,
+    "region": {
+      "id": 9,
+      "name": "Maule"
+    },
+    "region_id": 9,
+    "region_name": "Maule"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 601,
+    "name": "LONGOVILO",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 375,
+    "name": "LONQUEN",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 225,
+    "name": "LONQUIMAY",
+    "postal_code": null,
+    "region": {
+      "id": 11,
+      "name": "Araucania"
+    },
+    "region_id": 11,
+    "region_name": "Araucania"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 602,
+    "name": "LONTUE",
+    "postal_code": null,
+    "region": {
+      "id": 9,
+      "name": "Maule"
+    },
+    "region_id": 9,
+    "region_name": "Maule"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 163,
+    "name": "LOS ALAMOS",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 53,
+    "name": "LOS ANDES",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 165,
+    "name": "LOS ANGELES",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 603,
+    "name": "LOS HORCONES",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 604,
+    "name": "LOS HORNOS",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 235,
+    "name": "LOS LAGOS",
+    "postal_code": null,
+    "region": {
+      "id": 12,
+      "name": "Los Rios"
+    },
+    "region_id": 12,
+    "region_name": "Los Rios"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 605,
+    "name": "LOS LAURELES",
+    "postal_code": null,
+    "region": {
+      "id": 11,
+      "name": "Araucania"
+    },
+    "region_id": 11,
+    "region_name": "Araucania"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 606,
+    "name": "LOS LINGUES",
+    "postal_code": null,
+    "region": {
+      "id": 8,
+      "name": "O'Higgins"
+    },
+    "region_id": 8,
+    "region_name": "O'Higgins"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 607,
+    "name": "LOS MAITENES",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 608,
+    "name": "LOS MOLLES",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 249,
+    "name": "LOS MUERMOS",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 609,
+    "name": "LOS NICHES",
+    "postal_code": null,
+    "region": {
+      "id": 9,
+      "name": "Maule"
+    },
+    "region_id": 9,
+    "region_name": "Maule"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 610,
+    "name": "LOS OLIVOS",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 226,
+    "name": "LOS SAUCES",
+    "postal_code": null,
+    "region": {
+      "id": 11,
+      "name": "Araucania"
+    },
+    "region_id": 11,
+    "region_name": "Araucania"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 38,
+    "name": "LOS VILOS",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 151,
+    "name": "LOTA",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 227,
+    "name": "LUMACO",
+    "postal_code": null,
+    "region": {
+      "id": 11,
+      "name": "Araucania"
+    },
+    "region_id": 11,
+    "region_name": "Araucania"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 90,
+    "name": "MACHALI",
+    "postal_code": null,
+    "region": {
+      "id": 8,
+      "name": "O'Higgins"
+    },
+    "region_id": 8,
+    "region_name": "O'Higgins"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 312,
+    "name": "MACUL",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 236,
+    "name": "MAFIL",
+    "postal_code": null,
+    "region": {
+      "id": 12,
+      "name": "Los Rios"
+    },
+    "region_id": 12,
+    "region_name": "Los Rios"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 611,
+    "name": "MAICOLPUE",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 376,
+    "name": "MAIPO",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 313,
+    "name": "MAIPU",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 421,
+    "name": "MAITENCILLO",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 612,
+    "name": "MALALCAHUELLO",
+    "postal_code": null,
+    "region": {
+      "id": 11,
+      "name": "Araucania"
+    },
+    "region_id": 11,
+    "region_name": "Araucania"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 91,
+    "name": "MALLOA",
+    "postal_code": null,
+    "region": {
+      "id": 8,
+      "name": "O'Higgins"
+    },
+    "region_id": 8,
+    "region_name": "O'Higgins"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 377,
+    "name": "MALLOCO",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 613,
+    "name": "MAMINA",
+    "postal_code": null,
+    "region": {
+      "id": 2,
+      "name": "Tarapaca"
+    },
+    "region_id": 2,
+    "region_name": "Tarapaca"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 614,
+    "name": "MANAO",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 615,
+    "name": "MANDINGA",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 616,
+    "name": "MARBELLA",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 103,
+    "name": "MARCHIHUE",
+    "postal_code": null,
+    "region": {
+      "id": 8,
+      "name": "O'Higgins"
+    },
+    "region_id": 8,
+    "region_name": "O'Higgins"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 20,
+    "name": "MARIA ELENA",
+    "postal_code": null,
+    "region": {
+      "id": 3,
+      "name": "Antofagasta"
+    },
+    "region_id": 3,
+    "region_name": "Antofagasta"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 340,
+    "name": "MARIA PINTO",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 237,
+    "name": "MARIQUINA",
+    "postal_code": null,
+    "region": {
+      "id": 12,
+      "name": "Los Rios"
+    },
+    "region_id": 12,
+    "region_name": "Los Rios"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 618,
+    "name": "MATANZAS",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 120,
+    "name": "MAULE",
+    "postal_code": null,
+    "region": {
+      "id": 9,
+      "name": "Maule"
+    },
+    "region_id": 9,
+    "region_name": "Maule"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 251,
+    "name": "MAULLIN",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 619,
+    "name": "MECHAICO",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 620,
+    "name": "MEHUIN",
+    "postal_code": null,
+    "region": {
+      "id": 12,
+      "name": "Los Rios"
+    },
+    "region_id": 12,
+    "region_name": "Los Rios"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 13,
+    "name": "MEJILLONES",
+    "postal_code": null,
+    "region": {
+      "id": 3,
+      "name": "Antofagasta"
+    },
+    "region_id": 3,
+    "region_name": "Antofagasta"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 621,
+    "name": "MELINKA",
+    "postal_code": null,
+    "region": {
+      "id": 14,
+      "name": "Aysen"
+    },
+    "region_id": 14,
+    "region_name": "Aysen"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 209,
+    "name": "MELIPEUCO",
+    "postal_code": null,
+    "region": {
+      "id": 11,
+      "name": "Araucania"
+    },
+    "region_id": 11,
+    "region_name": "Araucania"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 337,
+    "name": "MELIPILLA",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 622,
+    "name": "MINAS DEL PRADO",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 623,
+    "name": "MINCHA",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 624,
+    "name": "MININCO",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 625,
+    "name": "MOCHA",
+    "postal_code": null,
+    "region": {
+      "id": 2,
+      "name": "Tarapaca"
+    },
+    "region_id": 2,
+    "region_name": "Tarapaca"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 132,
+    "name": "MOLINA",
+    "postal_code": null,
+    "region": {
+      "id": 9,
+      "name": "Maule"
+    },
+    "region_id": 9,
+    "region_name": "Maule"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 626,
+    "name": "MOLINOS",
+    "postal_code": null,
+    "region": {
+      "id": 1,
+      "name": "Arica y Parinacota"
+    },
+    "region_id": 1,
+    "region_name": "Arica y Parinacota"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 627,
+    "name": "MONTE AGUILA",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 628,
+    "name": "MONTE AYMOND",
+    "postal_code": null,
+    "region": {
+      "id": 15,
+      "name": "Magallanes"
+    },
+    "region_id": 15,
+    "region_name": "Magallanes"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 629,
+    "name": "MONTE GRANDE",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 42,
+    "name": "MONTE PATRIA",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 630,
+    "name": "MONTENEGRO",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 631,
+    "name": "MORRILLOS",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 169,
+    "name": "MULCHEN",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 170,
+    "name": "NACIMIENTO",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 632,
+    "name": "NAHUELTORO",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 633,
+    "name": "NAL",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 110,
+    "name": "NANCAGUA",
+    "postal_code": null,
+    "region": {
+      "id": 8,
+      "name": "O'Higgins"
+    },
+    "region_id": 8,
+    "region_name": "O'Higgins"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 404,
+    "name": "NAVIDAD",
+    "postal_code": null,
+    "region": {
+      "id": 8,
+      "name": "O'Higgins"
+    },
+    "region_id": 8,
+    "region_name": "O'Higgins"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 171,
+    "name": "NEGRETE",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 634,
+    "name": "NELTUME",
+    "postal_code": null,
+    "region": {
+      "id": 12,
+      "name": "Los Rios"
+    },
+    "region_id": 12,
+    "region_name": "Los Rios"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 635,
+    "name": "NIEBLA",
+    "postal_code": null,
+    "region": {
+      "id": 12,
+      "name": "Los Rios"
+    },
+    "region_id": 12,
+    "region_name": "Los Rios"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 186,
+    "name": "NINHUE",
+    "postal_code": null,
+    "region": {
+      "id": 48,
+      "name": "Nuble"
+    },
+    "region_id": 48,
+    "region_name": "Nuble"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 636,
+    "name": "NIPAS",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 187,
+    "name": "NIQUEN",
+    "postal_code": null,
+    "region": {
+      "id": 48,
+      "name": "Nuble"
+    },
+    "region_id": 48,
+    "region_name": "Nuble"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 637,
+    "name": "NIREHUAO",
+    "postal_code": null,
+    "region": {
+      "id": 14,
+      "name": "Aysen"
+    },
+    "region_id": 14,
+    "region_name": "Aysen"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 638,
+    "name": "NIRIVILO",
+    "postal_code": null,
+    "region": {
+      "id": 9,
+      "name": "Maule"
+    },
+    "region_id": 9,
+    "region_name": "Maule"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 66,
+    "name": "NOGALES",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 380,
+    "name": "NOS",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 378,
+    "name": "NOVICIADO",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 639,
+    "name": "NUEVA ALDEA",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 640,
+    "name": "NUEVA BRAUNAU",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 210,
+    "name": "NUEVA IMPERIAL",
+    "postal_code": null,
+    "region": {
+      "id": 11,
+      "name": "Araucania"
+    },
+    "region_id": 11,
+    "region_name": "Araucania"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 314,
+    "name": "NUNOA",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 429,
+    "name": "OHIGGINS",
+    "postal_code": null,
+    "region": {
+      "id": 15,
+      "name": "Magallanes"
+    },
+    "region_id": 15,
+    "region_name": "Magallanes"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 93,
+    "name": "OLIVAR",
+    "postal_code": null,
+    "region": {
+      "id": 8,
+      "name": "O'Higgins"
+    },
+    "region_id": 8,
+    "region_name": "O'Higgins"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 357,
+    "name": "OLIVAR ALTO",
+    "postal_code": null,
+    "region": {
+      "id": 8,
+      "name": "O'Higgins"
+    },
+    "region_id": 8,
+    "region_name": "O'Higgins"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 430,
+    "name": "OLLAGUE",
+    "postal_code": null,
+    "region": {
+      "id": 3,
+      "name": "Antofagasta"
+    },
+    "region_id": 3,
+    "region_name": "Antofagasta"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 81,
+    "name": "OLMUE",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 263,
+    "name": "OSORNO",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 40,
+    "name": "OVALLE",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 641,
+    "name": "PACHAMA",
+    "postal_code": null,
+    "region": {
+      "id": 1,
+      "name": "Arica y Parinacota"
+    },
+    "region_id": 1,
+    "region_name": "Arica y Parinacota"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 345,
+    "name": "PADRE HURTADO",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 211,
+    "name": "PADRE LAS CASAS",
+    "postal_code": null,
+    "region": {
+      "id": 11,
+      "name": "Araucania"
+    },
+    "region_id": 11,
+    "region_name": "Araucania"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 431,
+    "name": "PAIHUANO",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 238,
+    "name": "PAILLACO",
+    "postal_code": null,
+    "region": {
+      "id": 12,
+      "name": "Los Rios"
+    },
+    "region_id": 12,
+    "region_name": "Los Rios"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 336,
+    "name": "PAINE",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 642,
+    "name": "PAIPOTE",
+    "postal_code": null,
+    "region": {
+      "id": 4,
+      "name": "Atacama"
+    },
+    "region_id": 4,
+    "region_name": "Atacama"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 273,
+    "name": "PALENA",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 432,
+    "name": "PALMILLA",
+    "postal_code": null,
+    "region": {
+      "id": 8,
+      "name": "O'Higgins"
+    },
+    "region_id": 8,
+    "region_name": "O'Higgins"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 643,
+    "name": "PALOMAR",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 644,
+    "name": "PALQUIAL",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 645,
+    "name": "PAN DE AZUCAR",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 646,
+    "name": "PANGAL",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 239,
+    "name": "PANGUIPULLI",
+    "postal_code": null,
+    "region": {
+      "id": 12,
+      "name": "Los Rios"
+    },
+    "region_id": 12,
+    "region_name": "Los Rios"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 647,
+    "name": "PANIMAVIDA",
+    "postal_code": null,
+    "region": {
+      "id": 9,
+      "name": "Maule"
+    },
+    "region_id": 9,
+    "region_name": "Maule"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 76,
+    "name": "PANQUEHUE",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 648,
+    "name": "PAPOSO",
+    "postal_code": null,
+    "region": {
+      "id": 3,
+      "name": "Antofagasta"
+    },
+    "region_id": 3,
+    "region_name": "Antofagasta"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 59,
+    "name": "PAPUDO",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 649,
+    "name": "PARCELA EL CARMEN",
+    "postal_code": null,
+    "region": {
+      "id": 12,
+      "name": "Los Rios"
+    },
+    "region_id": 12,
+    "region_name": "Los Rios"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 105,
+    "name": "PAREDONES",
+    "postal_code": null,
+    "region": {
+      "id": 8,
+      "name": "O'Higgins"
+    },
+    "region_id": 8,
+    "region_name": "O'Higgins"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 650,
+    "name": "PARGUA",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 141,
+    "name": "PARRAL",
+    "postal_code": null,
+    "region": {
+      "id": 9,
+      "name": "Maule"
+    },
+    "region_id": 9,
+    "region_name": "Maule"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 651,
+    "name": "PAULDEO",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 652,
+    "name": "PEDREGAL",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 315,
+    "name": "PEDRO AGUIRRE CERDA",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 121,
+    "name": "PELARCO",
+    "postal_code": null,
+    "region": {
+      "id": 9,
+      "name": "Maule"
+    },
+    "region_id": 9,
+    "region_name": "Maule"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 653,
+    "name": "PELEQUEN",
+    "postal_code": null,
+    "region": {
+      "id": 8,
+      "name": "O'Higgins"
+    },
+    "region_id": 8,
+    "region_name": "O'Higgins"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 128,
+    "name": "PELLUHUE",
+    "postal_code": null,
+    "region": {
+      "id": 9,
+      "name": "Maule"
+    },
+    "region_id": 9,
+    "region_name": "Maule"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 188,
+    "name": "PEMUCO",
+    "postal_code": null,
+    "region": {
+      "id": 48,
+      "name": "Nuble"
+    },
+    "region_id": 48,
+    "region_name": "Nuble"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 654,
+    "name": "PENABLANCA",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 346,
+    "name": "PENAFLOR",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 316,
+    "name": "PENALOLEN",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 122,
+    "name": "PENCAHUE",
+    "postal_code": null,
+    "region": {
+      "id": 9,
+      "name": "Maule"
+    },
+    "region_id": 9,
+    "region_name": "Maule"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 152,
+    "name": "PENCO",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 112,
+    "name": "PERALILLO",
+    "postal_code": null,
+    "region": {
+      "id": 8,
+      "name": "O'Higgins"
+    },
+    "region_id": 8,
+    "region_name": "O'Higgins"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 212,
+    "name": "PERQUENCO",
+    "postal_code": null,
+    "region": {
+      "id": 11,
+      "name": "Araucania"
+    },
+    "region_id": 11,
+    "region_name": "Araucania"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 60,
+    "name": "PETORCA",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 655,
+    "name": "PETROHUE",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 94,
+    "name": "PEUMO",
+    "postal_code": null,
+    "region": {
+      "id": 8,
+      "name": "O'Higgins"
+    },
+    "region_id": 8,
+    "region_name": "O'Higgins"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 11,
+    "name": "PICA",
+    "postal_code": null,
+    "region": {
+      "id": 2,
+      "name": "Tarapaca"
+    },
+    "region_id": 2,
+    "region_name": "Tarapaca"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 656,
+    "name": "PICHASCA",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 657,
+    "name": "PICHI PELLUCO",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 658,
+    "name": "PICHICUY",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 659,
+    "name": "PICHIDANGUI",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 352,
+    "name": "PICHIDEGUA",
+    "postal_code": null,
+    "region": {
+      "id": 8,
+      "name": "O'Higgins"
+    },
+    "region_id": 8,
+    "region_name": "O'Higgins"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 100,
+    "name": "PICHILEMU",
+    "postal_code": null,
+    "region": {
+      "id": 8,
+      "name": "O'Higgins"
+    },
+    "region_id": 8,
+    "region_name": "O'Higgins"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 660,
+    "name": "PILLANLELBUN",
+    "postal_code": null,
+    "region": {
+      "id": 11,
+      "name": "Araucania"
+    },
+    "region_id": 11,
+    "region_name": "Araucania"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 661,
+    "name": "PINGUERAL",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 189,
+    "name": "PINTO",
+    "postal_code": null,
+    "region": {
+      "id": 48,
+      "name": "Nuble"
+    },
+    "region_id": 48,
+    "region_name": "Nuble"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 328,
+    "name": "PIRQUE",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 662,
+    "name": "PISCO ELQUI",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 213,
+    "name": "PITRUFQUEN",
+    "postal_code": null,
+    "region": {
+      "id": 11,
+      "name": "Araucania"
+    },
+    "region_id": 11,
+    "region_name": "Araucania"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 113,
+    "name": "PLACILLA",
+    "postal_code": null,
+    "region": {
+      "id": 8,
+      "name": "O'Higgins"
+    },
+    "region_id": 8,
+    "region_name": "O'Higgins"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 418,
+    "name": "PLACILLA (VINA DEL MAR)",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 414,
+    "name": "PLAYA ANCHA",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 663,
+    "name": "POCONCHILE",
+    "postal_code": null,
+    "region": {
+      "id": 1,
+      "name": "Arica y Parinacota"
+    },
+    "region_id": 1,
+    "region_name": "Arica y Parinacota"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 664,
+    "name": "POLCURA",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 397,
+    "name": "POLPAICO",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 398,
+    "name": "POMAIRE",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 665,
+    "name": "POPETA",
+    "postal_code": null,
+    "region": {
+      "id": 8,
+      "name": "O'Higgins"
+    },
+    "region_id": 8,
+    "region_name": "O'Higgins"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 190,
+    "name": "PORTEZUELO",
+    "postal_code": null,
+    "region": {
+      "id": 48,
+      "name": "Nuble"
+    },
+    "region_id": 48,
+    "region_name": "Nuble"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 666,
+    "name": "PORTILLO",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 290,
+    "name": "PORVENIR",
+    "postal_code": null,
+    "region": {
+      "id": 15,
+      "name": "Magallanes"
+    },
+    "region_id": 15,
+    "region_name": "Magallanes"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 7,
+    "name": "POZO ALMONTE",
+    "postal_code": null,
+    "region": {
+      "id": 2,
+      "name": "Tarapaca"
+    },
+    "region_id": 2,
+    "region_name": "Tarapaca"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 291,
+    "name": "PRIMAVERA",
+    "postal_code": null,
+    "region": {
+      "id": 15,
+      "name": "Magallanes"
+    },
+    "region_id": 15,
+    "region_name": "Magallanes"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 317,
+    "name": "PROVIDENCIA",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 667,
+    "name": "PUAUCHO",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 668,
+    "name": "PUCATRIHUE",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 49,
+    "name": "PUCHUNCAVI",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 214,
+    "name": "PUCON",
+    "postal_code": null,
+    "region": {
+      "id": 11,
+      "name": "Araucania"
+    },
+    "region_id": 11,
+    "region_name": "Araucania"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 318,
+    "name": "PUDAHUEL",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 669,
+    "name": "PUEBLO SECO",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 670,
+    "name": "PUELO",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 327,
+    "name": "PUENTE ALTO",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 671,
+    "name": "PUENTE NEGRO",
+    "postal_code": null,
+    "region": {
+      "id": 8,
+      "name": "O'Higgins"
+    },
+    "region_id": 8,
+    "region_name": "O'Higgins"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 672,
+    "name": "PUENTE QUILO",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 673,
+    "name": "PUERTECILLO",
+    "postal_code": null,
+    "region": {
+      "id": 8,
+      "name": "O'Higgins"
+    },
+    "region_id": 8,
+    "region_name": "O'Higgins"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 675,
+    "name": "PUERTO ALDEA",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 676,
+    "name": "PUERTO BERTRAND",
+    "postal_code": null,
+    "region": {
+      "id": 14,
+      "name": "Aysen"
+    },
+    "region_id": 14,
+    "region_name": "Aysen"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 677,
+    "name": "PUERTO BORIES",
+    "postal_code": null,
+    "region": {
+      "id": 15,
+      "name": "Magallanes"
+    },
+    "region_id": 15,
+    "region_name": "Magallanes"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 413,
+    "name": "PUERTO CHACABUCO",
+    "postal_code": null,
+    "region": {
+      "id": 14,
+      "name": "Aysen"
+    },
+    "region_id": 14,
+    "region_name": "Aysen"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 277,
+    "name": "PUERTO CISNES",
+    "postal_code": null,
+    "region": {
+      "id": 14,
+      "name": "Aysen"
+    },
+    "region_id": 14,
+    "region_name": "Aysen"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 678,
+    "name": "PUERTO DOMINGUEZ",
+    "postal_code": null,
+    "region": {
+      "id": 11,
+      "name": "Araucania"
+    },
+    "region_id": 11,
+    "region_name": "Araucania"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 244,
+    "name": "PUERTO MONTT",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 293,
+    "name": "PUERTO NATALES",
+    "postal_code": null,
+    "region": {
+      "id": 15,
+      "name": "Magallanes"
+    },
+    "region_id": 15,
+    "region_name": "Magallanes"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 264,
+    "name": "PUERTO OCTAY",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 679,
+    "name": "PUERTO TORO",
+    "postal_code": null,
+    "region": {
+      "id": 15,
+      "name": "Magallanes"
+    },
+    "region_id": 15,
+    "region_name": "Magallanes"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 680,
+    "name": "PUERTO TRANQUILO",
+    "postal_code": null,
+    "region": {
+      "id": 14,
+      "name": "Aysen"
+    },
+    "region_id": 14,
+    "region_name": "Aysen"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 252,
+    "name": "PUERTO VARAS",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 681,
+    "name": "PUERTO VELERO",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 682,
+    "name": "PUERTO WILLIAMS",
+    "postal_code": null,
+    "region": {
+      "id": 15,
+      "name": "Magallanes"
+    },
+    "region_id": 15,
+    "region_name": "Magallanes"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 114,
+    "name": "PUMANQUE",
+    "postal_code": null,
+    "region": {
+      "id": 8,
+      "name": "O'Higgins"
+    },
+    "region_id": 8,
+    "region_name": "O'Higgins"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 43,
+    "name": "PUNITAQUI",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 284,
+    "name": "PUNTA ARENAS",
+    "postal_code": null,
+    "region": {
+      "id": 15,
+      "name": "Magallanes"
+    },
+    "region_id": 15,
+    "region_name": "Magallanes"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 683,
+    "name": "PUNTA COLORADA",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 684,
+    "name": "PUNTA CORONA",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 685,
+    "name": "PUNTA DE PARRA",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 686,
+    "name": "PUNTA DE TRALCA",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 687,
+    "name": "PUNTA DELGADA",
+    "postal_code": null,
+    "region": {
+      "id": 15,
+      "name": "Magallanes"
+    },
+    "region_id": 15,
+    "region_name": "Magallanes"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 688,
+    "name": "PUNTA LAVAPIE",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 689,
+    "name": "PUNUCAPA",
+    "postal_code": null,
+    "region": {
+      "id": 12,
+      "name": "Los Rios"
+    },
+    "region_id": 12,
+    "region_name": "Los Rios"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 258,
+    "name": "PUQUELDON",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 228,
+    "name": "PUREN",
+    "postal_code": null,
+    "region": {
+      "id": 11,
+      "name": "Araucania"
+    },
+    "region_id": 11,
+    "region_name": "Araucania"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 265,
+    "name": "PURRANQUE",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 77,
+    "name": "PUTAENDO",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 3,
+    "name": "PUTRE",
+    "postal_code": null,
+    "region": {
+      "id": 1,
+      "name": "Arica y Parinacota"
+    },
+    "region_id": 1,
+    "region_name": "Arica y Parinacota"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 266,
+    "name": "PUYEHUE",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 690,
+    "name": "PUYUHUAPI",
+    "postal_code": null,
+    "region": {
+      "id": 14,
+      "name": "Aysen"
+    },
+    "region_id": 14,
+    "region_name": "Aysen"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 691,
+    "name": "QUEBRADA DE TALCA",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 259,
+    "name": "QUEILEN",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 260,
+    "name": "QUELLON",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 692,
+    "name": "QUELON",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 261,
+    "name": "QUEMCHI",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 693,
+    "name": "QUEPE",
+    "postal_code": null,
+    "region": {
+      "id": 11,
+      "name": "Araucania"
+    },
+    "region_id": 11,
+    "region_name": "Araucania"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 694,
+    "name": "QUETALMAHUE",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 695,
+    "name": "QUEULE",
+    "postal_code": null,
+    "region": {
+      "id": 11,
+      "name": "Araucania"
+    },
+    "region_id": 11,
+    "region_name": "Araucania"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 172,
+    "name": "QUILACO",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 696,
+    "name": "QUILCHE",
+    "postal_code": null,
+    "region": {
+      "id": 12,
+      "name": "Los Rios"
+    },
+    "region_id": 12,
+    "region_name": "Los Rios"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 319,
+    "name": "QUILICURA",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 697,
+    "name": "QUILIMARI",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 698,
+    "name": "QUILLAGUA",
+    "postal_code": null,
+    "region": {
+      "id": 3,
+      "name": "Antofagasta"
+    },
+    "region_id": 3,
+    "region_name": "Antofagasta"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 173,
+    "name": "QUILLECO",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 191,
+    "name": "QUILLON",
+    "postal_code": null,
+    "region": {
+      "id": 48,
+      "name": "Nuble"
+    },
+    "region_id": 48,
+    "region_name": "Nuble"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 62,
+    "name": "QUILLOTA",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 79,
+    "name": "QUILPUE",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 699,
+    "name": "QUINCHAMALI",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 262,
+    "name": "QUINCHAO",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 96,
+    "name": "QUINTA DE TILCOCO",
+    "postal_code": null,
+    "region": {
+      "id": 8,
+      "name": "O'Higgins"
+    },
+    "region_id": 8,
+    "region_name": "O'Higgins"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 320,
+    "name": "QUINTA NORMAL",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 700,
+    "name": "QUINTAY",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 50,
+    "name": "QUINTERO",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 192,
+    "name": "QUIRIHUE",
+    "postal_code": null,
+    "region": {
+      "id": 48,
+      "name": "Nuble"
+    },
+    "region_id": 48,
+    "region_name": "Nuble"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 701,
+    "name": "QUIRIQUINA",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 702,
+    "name": "RAFAEL",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 703,
+    "name": "RAMADILLAS",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 83,
+    "name": "RANCAGUA",
+    "postal_code": null,
+    "region": {
+      "id": 8,
+      "name": "O'Higgins"
+    },
+    "region_id": 8,
+    "region_name": "O'Higgins"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 704,
+    "name": "RANGUELMO",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 193,
+    "name": "RANQUIL",
+    "postal_code": null,
+    "region": {
+      "id": 48,
+      "name": "Nuble"
+    },
+    "region_id": 48,
+    "region_name": "Nuble"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 705,
+    "name": "RAPEL",
+    "postal_code": null,
+    "region": {
+      "id": 8,
+      "name": "O'Higgins"
+    },
+    "region_id": 8,
+    "region_name": "O'Higgins"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 133,
+    "name": "RAUCO",
+    "postal_code": null,
+    "region": {
+      "id": 9,
+      "name": "Maule"
+    },
+    "region_id": 9,
+    "region_name": "Maule"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 417,
+    "name": "RAUQUEN",
+    "postal_code": null,
+    "region": {
+      "id": 9,
+      "name": "Maule"
+    },
+    "region_id": 9,
+    "region_name": "Maule"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 706,
+    "name": "RAYENCURA",
+    "postal_code": null,
+    "region": {
+      "id": 12,
+      "name": "Los Rios"
+    },
+    "region_id": 12,
+    "region_name": "Los Rios"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 321,
+    "name": "RECOLETA",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 707,
+    "name": "RECOLETA IV",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 363,
+    "name": "RENACA",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 229,
+    "name": "RENAICO",
+    "postal_code": null,
+    "region": {
+      "id": 11,
+      "name": "Araucania"
+    },
+    "region_id": 11,
+    "region_name": "Araucania"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 322,
+    "name": "RENCA",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 97,
+    "name": "RENGO",
+    "postal_code": null,
+    "region": {
+      "id": 8,
+      "name": "O'Higgins"
+    },
+    "region_id": 8,
+    "region_name": "O'Higgins"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 98,
+    "name": "REQUINOA",
+    "postal_code": null,
+    "region": {
+      "id": 8,
+      "name": "O'Higgins"
+    },
+    "region_id": 8,
+    "region_name": "O'Higgins"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 142,
+    "name": "RETIRO",
+    "postal_code": null,
+    "region": {
+      "id": 9,
+      "name": "Maule"
+    },
+    "region_id": 9,
+    "region_name": "Maule"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 708,
+    "name": "RIHUE",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 55,
+    "name": "RINCONADA",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 709,
+    "name": "RINCONADA DE GUZMAN",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 710,
+    "name": "RINCONADA DE SILVA",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 711,
+    "name": "RINIHUE",
+    "postal_code": null,
+    "region": {
+      "id": 12,
+      "name": "Los Rios"
+    },
+    "region_id": 12,
+    "region_name": "Los Rios"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 712,
+    "name": "RININAHUE",
+    "postal_code": null,
+    "region": {
+      "id": 12,
+      "name": "Los Rios"
+    },
+    "region_id": 12,
+    "region_name": "Los Rios"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 243,
+    "name": "RIO BUENO",
+    "postal_code": null,
+    "region": {
+      "id": 12,
+      "name": "Los Rios"
+    },
+    "region_id": 12,
+    "region_name": "Los Rios"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 123,
+    "name": "RIO CLARO",
+    "postal_code": null,
+    "region": {
+      "id": 9,
+      "name": "Maule"
+    },
+    "region_id": 9,
+    "region_name": "Maule"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 44,
+    "name": "RIO HURTADO",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 283,
+    "name": "RIO IBANEZ",
+    "postal_code": null,
+    "region": {
+      "id": 14,
+      "name": "Aysen"
+    },
+    "region_id": 14,
+    "region_name": "Aysen"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 267,
+    "name": "RIO NEGRO",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 286,
+    "name": "RIO VERDE",
+    "postal_code": null,
+    "region": {
+      "id": 15,
+      "name": "Magallanes"
+    },
+    "region_id": 15,
+    "region_name": "Magallanes"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 713,
+    "name": "ROBLE HUACHO",
+    "postal_code": null,
+    "region": {
+      "id": 12,
+      "name": "Los Rios"
+    },
+    "region_id": 12,
+    "region_name": "Los Rios"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 134,
+    "name": "ROMERAL",
+    "postal_code": null,
+    "region": {
+      "id": 9,
+      "name": "Maule"
+    },
+    "region_id": 9,
+    "region_name": "Maule"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 714,
+    "name": "ROSARIO",
+    "postal_code": null,
+    "region": {
+      "id": 8,
+      "name": "O'Higgins"
+    },
+    "region_id": 8,
+    "region_name": "O'Higgins"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 715,
+    "name": "RUCA RAQUI (SAAVEDRA)",
+    "postal_code": null,
+    "region": {
+      "id": 11,
+      "name": "Araucania"
+    },
+    "region_id": 11,
+    "region_name": "Araucania"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 716,
+    "name": "RUCAPEQUEN",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 379,
+    "name": "RUNGUE",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 215,
+    "name": "SAAVEDRA",
+    "postal_code": null,
+    "region": {
+      "id": 11,
+      "name": "Araucania"
+    },
+    "region_id": 11,
+    "region_name": "Araucania"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 135,
+    "name": "SAGRADA FAMILIA",
+    "postal_code": null,
+    "region": {
+      "id": 9,
+      "name": "Maule"
+    },
+    "region_id": 9,
+    "region_name": "Maule"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 717,
+    "name": "SALADILLO",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 39,
+    "name": "SALAMANCA",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 718,
+    "name": "SAN ALFONSO",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 67,
+    "name": "SAN ANTONIO",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 333,
+    "name": "SAN BERNARDO",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 194,
+    "name": "SAN CARLOS",
+    "postal_code": null,
+    "region": {
+      "id": 48,
+      "name": "Nuble"
+    },
+    "region_id": 48,
+    "region_name": "Nuble"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 124,
+    "name": "SAN CLEMENTE",
+    "postal_code": null,
+    "region": {
+      "id": 9,
+      "name": "Maule"
+    },
+    "region_id": 9,
+    "region_name": "Maule"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 56,
+    "name": "SAN ESTEBAN",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 195,
+    "name": "SAN FABIAN",
+    "postal_code": null,
+    "region": {
+      "id": 48,
+      "name": "Nuble"
+    },
+    "region_id": 48,
+    "region_name": "Nuble"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 73,
+    "name": "SAN FELIPE",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 106,
+    "name": "SAN FERNANDO",
+    "postal_code": null,
+    "region": {
+      "id": 8,
+      "name": "O'Higgins"
+    },
+    "region_id": 8,
+    "region_name": "O'Higgins"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 354,
+    "name": "SAN FRANCISCO DE MOSTAZAL",
+    "postal_code": null,
+    "region": {
+      "id": 8,
+      "name": "O'Higgins"
+    },
+    "region_id": 8,
+    "region_name": "O'Higgins"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 381,
+    "name": "SAN GABRIEL",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 287,
+    "name": "SAN GREGORIO",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 196,
+    "name": "SAN IGNACIO",
+    "postal_code": null,
+    "region": {
+      "id": 48,
+      "name": "Nuble"
+    },
+    "region_id": 48,
+    "region_name": "Nuble"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 143,
+    "name": "SAN JAVIER",
+    "postal_code": null,
+    "region": {
+      "id": 9,
+      "name": "Maule"
+    },
+    "region_id": 9,
+    "region_name": "Maule"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 323,
+    "name": "SAN JOAQUIN",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 329,
+    "name": "SAN JOSE DE MAIPO",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 719,
+    "name": "SAN JUAN",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 268,
+    "name": "SAN JUAN DE LA COSTA",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 720,
+    "name": "SAN JULIAN",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 721,
+    "name": "SAN MANUEL",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 722,
+    "name": "SAN MARCOS",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 324,
+    "name": "SAN MIGUEL",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 197,
+    "name": "SAN NICOLAS",
+    "postal_code": null,
+    "region": {
+      "id": 48,
+      "name": "Nuble"
+    },
+    "region_id": 48,
+    "region_name": "Nuble"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 269,
+    "name": "SAN PABLO",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 723,
+    "name": "SAN PEDRO DE ALCANTARA",
+    "postal_code": null,
+    "region": {
+      "id": 9,
+      "name": "Maule"
+    },
+    "region_id": 9,
+    "region_name": "Maule"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 18,
+    "name": "SAN PEDRO DE ATACAMA",
+    "postal_code": null,
+    "region": {
+      "id": 3,
+      "name": "Antofagasta"
+    },
+    "region_id": 3,
+    "region_name": "Antofagasta"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 153,
+    "name": "SAN PEDRO DE LA PAZ",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 433,
+    "name": "SAN PEDRO DE MELIPILLA",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 724,
+    "name": "SAN PEDRO QUINTA REGION",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 125,
+    "name": "SAN RAFAEL",
+    "postal_code": null,
+    "region": {
+      "id": 9,
+      "name": "Maule"
+    },
+    "region_id": 9,
+    "region_name": "Maule"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 325,
+    "name": "SAN RAMON",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 174,
+    "name": "SAN ROSENDO",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 725,
+    "name": "SAN SEBASTIAN",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 434,
+    "name": "SAN VICENTE DE TAGUA TAGUA",
+    "postal_code": null,
+    "region": {
+      "id": 8,
+      "name": "O'Higgins"
+    },
+    "region_id": 8,
+    "region_name": "O'Higgins"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 175,
+    "name": "SANTA BARBARA",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 726,
+    "name": "SANTA CLARA",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 115,
+    "name": "SANTA CRUZ",
+    "postal_code": null,
+    "region": {
+      "id": 8,
+      "name": "O'Higgins"
+    },
+    "region_id": 8,
+    "region_name": "O'Higgins"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 154,
+    "name": "SANTA JUANA",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 78,
+    "name": "SANTA MARIA",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 727,
+    "name": "SANTA ROSA DE CHENA",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 295,
+    "name": "SANTIAGO CENTRO",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 72,
+    "name": "SANTO DOMINGO",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 728,
+    "name": "SECTOR LA PENA",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 729,
+    "name": "SEWELL",
+    "postal_code": null,
+    "region": {
+      "id": 8,
+      "name": "O'Higgins"
+    },
+    "region_id": 8,
+    "region_name": "O'Higgins"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 14,
+    "name": "SIERRA GORDA",
+    "postal_code": null,
+    "region": {
+      "id": 3,
+      "name": "Antofagasta"
+    },
+    "region_id": 3,
+    "region_name": "Antofagasta"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 730,
+    "name": "SOCAIRE",
+    "postal_code": null,
+    "region": {
+      "id": 3,
+      "name": "Antofagasta"
+    },
+    "region_id": 3,
+    "region_name": "Antofagasta"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 731,
+    "name": "SOCOROMA",
+    "postal_code": null,
+    "region": {
+      "id": 1,
+      "name": "Arica y Parinacota"
+    },
+    "region_id": 1,
+    "region_name": "Arica y Parinacota"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 732,
+    "name": "SOCOS",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 733,
+    "name": "SORA",
+    "postal_code": null,
+    "region": {
+      "id": 1,
+      "name": "Arica y Parinacota"
+    },
+    "region_id": 1,
+    "region_name": "Arica y Parinacota"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 734,
+    "name": "SOTAQUI",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 408,
+    "name": "SOTOCA",
+    "postal_code": null,
+    "region": {
+      "id": 2,
+      "name": "Tarapaca"
+    },
+    "region_id": 2,
+    "region_name": "Tarapaca"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 342,
+    "name": "TALAGANTE",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 116,
+    "name": "TALCA",
+    "postal_code": null,
+    "region": {
+      "id": 9,
+      "name": "Maule"
+    },
+    "region_id": 9,
+    "region_name": "Maule"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 155,
+    "name": "TALCAHUANO",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 15,
+    "name": "TALTAL",
+    "postal_code": null,
+    "region": {
+      "id": 3,
+      "name": "Antofagasta"
+    },
+    "region_id": 3,
+    "region_name": "Antofagasta"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 735,
+    "name": "TAMBILLO",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 736,
+    "name": "TANILVORO",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 200,
+    "name": "TEMUCO",
+    "postal_code": null,
+    "region": {
+      "id": 11,
+      "name": "Araucania"
+    },
+    "region_id": 11,
+    "region_name": "Araucania"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 136,
+    "name": "TENO",
+    "postal_code": null,
+    "region": {
+      "id": 9,
+      "name": "Maule"
+    },
+    "region_id": 9,
+    "region_name": "Maule"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 216,
+    "name": "TEODORO SCHMIDT",
+    "postal_code": null,
+    "region": {
+      "id": 11,
+      "name": "Araucania"
+    },
+    "region_id": 11,
+    "region_name": "Araucania"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 23,
+    "name": "TIERRA AMARILLA",
+    "postal_code": null,
+    "region": {
+      "id": 4,
+      "name": "Atacama"
+    },
+    "region_id": 4,
+    "region_name": "Atacama"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 737,
+    "name": "TIERRAS BLANCAS",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 738,
+    "name": "TIGNAMAR",
+    "postal_code": null,
+    "region": {
+      "id": 1,
+      "name": "Arica y Parinacota"
+    },
+    "region_id": 1,
+    "region_name": "Arica y Parinacota"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 435,
+    "name": "TIL TIL",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 292,
+    "name": "TIMAUKEL",
+    "postal_code": null,
+    "region": {
+      "id": 15,
+      "name": "Magallanes"
+    },
+    "region_id": 15,
+    "region_name": "Magallanes"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 164,
+    "name": "TIRUA",
+    "postal_code": null,
+    "region": {
+      "id": 11,
+      "name": "Araucania"
+    },
+    "region_id": 11,
+    "region_name": "Araucania"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 739,
+    "name": "TOCONAO",
+    "postal_code": null,
+    "region": {
+      "id": 3,
+      "name": "Antofagasta"
+    },
+    "region_id": 3,
+    "region_name": "Antofagasta"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 19,
+    "name": "TOCOPILLA",
+    "postal_code": null,
+    "region": {
+      "id": 3,
+      "name": "Antofagasta"
+    },
+    "region_id": 3,
+    "region_name": "Antofagasta"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 217,
+    "name": "TOLTEN",
+    "postal_code": null,
+    "region": {
+      "id": 11,
+      "name": "Araucania"
+    },
+    "region_id": 11,
+    "region_name": "Araucania"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 156,
+    "name": "TOME",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 402,
+    "name": "TONGOY",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 740,
+    "name": "TOPOCALMA",
+    "postal_code": null,
+    "region": {
+      "id": 8,
+      "name": "O'Higgins"
+    },
+    "region_id": 8,
+    "region_name": "O'Higgins"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 294,
+    "name": "TORRES DEL PAINE",
+    "postal_code": null,
+    "region": {
+      "id": 15,
+      "name": "Magallanes"
+    },
+    "region_id": 15,
+    "region_name": "Magallanes"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 281,
+    "name": "TORTEL",
+    "postal_code": null,
+    "region": {
+      "id": 14,
+      "name": "Aysen"
+    },
+    "region_id": 14,
+    "region_name": "Aysen"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 741,
+    "name": "TOTORALILLO",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 230,
+    "name": "TRAIGUEN",
+    "postal_code": null,
+    "region": {
+      "id": 11,
+      "name": "Araucania"
+    },
+    "region_id": 11,
+    "region_name": "Araucania"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 198,
+    "name": "TREGUACO",
+    "postal_code": null,
+    "region": {
+      "id": 48,
+      "name": "Nuble"
+    },
+    "region_id": 48,
+    "region_name": "Nuble"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 742,
+    "name": "TREGUALEMU",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 744,
+    "name": "TROVOLHUE",
+    "postal_code": null,
+    "region": {
+      "id": 11,
+      "name": "Araucania"
+    },
+    "region_id": 11,
+    "region_name": "Araucania"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 745,
+    "name": "TRUMAO",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 746,
+    "name": "TRUPAN",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 747,
+    "name": "TUBUL",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 176,
+    "name": "TUCAPEL",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 748,
+    "name": "TULAHUEN",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 232,
+    "name": "VALDIVIA",
+    "postal_code": null,
+    "region": {
+      "id": 12,
+      "name": "Los Rios"
+    },
+    "region_id": 12,
+    "region_name": "Los Rios"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 382,
+    "name": "VALDIVIA DE PAINE",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 749,
+    "name": "VALLE NEVADO",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 750,
+    "name": "VALLE SIMPSON",
+    "postal_code": null,
+    "region": {
+      "id": 14,
+      "name": "Aysen"
+    },
+    "region_id": 14,
+    "region_name": "Aysen"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 26,
+    "name": "VALLENAR",
+    "postal_code": null,
+    "region": {
+      "id": 4,
+      "name": "Atacama"
+    },
+    "region_id": 4,
+    "region_name": "Atacama"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 45,
+    "name": "VALPARAISO",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 751,
+    "name": "VEGAS DE ITATA",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 137,
+    "name": "VICHUQUEN",
+    "postal_code": null,
+    "region": {
+      "id": 9,
+      "name": "Maule"
+    },
+    "region_id": 9,
+    "region_name": "Maule"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 231,
+    "name": "VICTORIA",
+    "postal_code": null,
+    "region": {
+      "id": 11,
+      "name": "Araucania"
+    },
+    "region_id": 11,
+    "region_name": "Araucania"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 35,
+    "name": "VICUNA",
+    "postal_code": null,
+    "region": {
+      "id": 5,
+      "name": "Coquimbo"
+    },
+    "region_id": 5,
+    "region_name": "Coquimbo"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 218,
+    "name": "VILCUN",
+    "postal_code": null,
+    "region": {
+      "id": 11,
+      "name": "Araucania"
+    },
+    "region_id": 11,
+    "region_name": "Araucania"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 144,
+    "name": "VILLA ALEGRE",
+    "postal_code": null,
+    "region": {
+      "id": 9,
+      "name": "Maule"
+    },
+    "region_id": 9,
+    "region_name": "Maule"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 82,
+    "name": "VILLA ALEMANA",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 752,
+    "name": "VILLA ALHUE",
+    "postal_code": null,
+    "region": {
+      "id": 8,
+      "name": "O'Higgins"
+    },
+    "region_id": 8,
+    "region_name": "O'Higgins"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 753,
+    "name": "VILLA AMENGUAL",
+    "postal_code": null,
+    "region": {
+      "id": 14,
+      "name": "Aysen"
+    },
+    "region_id": 14,
+    "region_name": "Aysen"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 754,
+    "name": "VILLA CERRO CASTILLO",
+    "postal_code": null,
+    "region": {
+      "id": 14,
+      "name": "Aysen"
+    },
+    "region_id": 14,
+    "region_name": "Aysen"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 755,
+    "name": "VILLA MANIHUALES",
+    "postal_code": null,
+    "region": {
+      "id": 14,
+      "name": "Aysen"
+    },
+    "region_id": 14,
+    "region_name": "Aysen"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 756,
+    "name": "VILLA MERCEDES",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 757,
+    "name": "VILLA ORTEGA",
+    "postal_code": null,
+    "region": {
+      "id": 14,
+      "name": "Aysen"
+    },
+    "region_id": 14,
+    "region_name": "Aysen"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 758,
+    "name": "VILLA PRAT",
+    "postal_code": null,
+    "region": {
+      "id": 9,
+      "name": "Maule"
+    },
+    "region_id": 9,
+    "region_name": "Maule"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 759,
+    "name": "VILLA SANTA LUCIA",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 219,
+    "name": "VILLARRICA",
+    "postal_code": null,
+    "region": {
+      "id": 11,
+      "name": "Araucania"
+    },
+    "region_id": 11,
+    "region_name": "Araucania"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 760,
+    "name": "VILLUCO",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 51,
+    "name": "VINA DEL MAR",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 761,
+    "name": "VISVIRI",
+    "postal_code": null,
+    "region": {
+      "id": 1,
+      "name": "Arica y Parinacota"
+    },
+    "region_id": 1,
+    "region_name": "Arica y Parinacota"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 326,
+    "name": "VITACURA",
+    "postal_code": null,
+    "region": {
+      "id": 7,
+      "name": "Metropolitana"
+    },
+    "region_id": 7,
+    "region_name": "Metropolitana"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 145,
+    "name": "YERBAS BUENAS",
+    "postal_code": null,
+    "region": {
+      "id": 9,
+      "name": "Maule"
+    },
+    "region_id": 9,
+    "region_name": "Maule"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 177,
+    "name": "YUMBEL",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 199,
+    "name": "YUNGAY",
+    "postal_code": null,
+    "region": {
+      "id": 48,
+      "name": "Nuble"
+    },
+    "region_id": 48,
+    "region_name": "Nuble"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 762,
+    "name": "YUSTE",
+    "postal_code": null,
+    "region": {
+      "id": 13,
+      "name": "Los Lagos"
+    },
+    "region_id": 13,
+    "region_name": "Los Lagos"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 61,
+    "name": "ZAPALLAR",
+    "postal_code": null,
+    "region": {
+      "id": 6,
+      "name": "Valparaiso"
+    },
+    "region_id": 6,
+    "region_name": "Valparaiso"
+  },
+  {
+    "country_id": 1,
+    "country_name": "Chile",
+    "id": 763,
+    "name": "ZEMITA",
+    "postal_code": null,
+    "region": {
+      "id": 10,
+      "name": "Biobio"
+    },
+    "region_id": 10,
+    "region_name": "Biobio"
+  }
+]
