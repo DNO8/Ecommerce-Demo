@@ -63,7 +63,7 @@ mis avances tengo que mostrarlos de alguna manera y siento que esta es las mas g
 
 
 adjuntos algunas capturas de la web hasta el momento.
-[Screenshot 1](https://github.com/user-attachments/assets/36972988-ae61-4505-a077-5290259269ba)
-[Screenshot 2](https://github.com/user-attachments/assets/6490b495-929d-45ad-b65f-87825c6afc27)
-[Screenshot 3](https://github.com/user-attachments/assets/1240380a-0e3d-4907-95aa-e0851479e2a4)
-[Screenshot 4](https://github.com/user-attachments/assets/7536ed37-e08f-4b79-89cd-543242d7ff96)
+![Screenshot 1](https://github.com/user-attachments/assets/36972988-ae61-4505-a077-5290259269ba)
+![Screenshot 2](https://github.com/user-attachments/assets/6490b495-929d-45ad-b65f-87825c6afc27)
+![Screenshot 3](https://github.com/user-attachments/assets/1240380a-0e3d-4907-95aa-e0851479e2a4)
+![Screenshot 4](https://github.com/user-attachments/assets/7536ed37-e08f-4b79-89cd-543242d7ff96)
