@@ -207,7 +207,7 @@ export class FormularioEnvio extends LitElement {
       productItems: this.productItems,
       subtotal: this.subtotal,
       descripcion:'articulos hechos a mano',
-      nBoletaVenta:"BELENYOTEAMABA",
+      nBoletaVenta:"BLTBA-1",
     };
     this.data=data;
     const result = await fetch('http://localhost:3001/shipit-demo/cotizar', {
