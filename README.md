@@ -1,6 +1,6 @@
-# Ecommerce en desarrollo
+# Aplicación full-stack desarrollada como ejercicio técnico para construir una tienda online con arquitectura MVC, pagos con Flow y cálculo de envío con Shipit. Enfocada en buenas prácticas de validación, diseño responsive y separación de responsabilidades.
 
-**Tienda online en desarrollo para la venta y envío de productos relacionados al arte.**  
+**Tienda online para la venta y envío de productos relacionados al arte.**  
 Este proyecto está construido con [Lit](https://lit.dev/) y utiliza la pasarela de pago de [Flow](https://www.flow.cl/).
 
 ---
@@ -37,9 +37,13 @@ Este proyecto está construido con [Lit](https://lit.dev/) y utiliza la pasarela
 ## ⚙️ Configuracion de entorno
 Crea un archivo .env en la raíz del proyecto con las credenciales necesarias para Flow y otros servicios:
 FLOW_API_KEY=tu_api_key
+
 FLOW_API_SECRET=tu_codigo_de SECRET
+
 SHIPIT_ACCOUNT_EMAIL=tu correo en shipit
+
 SHIPIT_ACCOUNT_TOKEN=tu token en shipit
+
 
 ## Dependencias Principales
 
