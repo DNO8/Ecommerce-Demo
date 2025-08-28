@@ -1,6 +1,6 @@
-# Aplicación full-stack desarrollada como ejercicio técnico para construir una tienda online con arquitectura MVC, pagos con Flow y cálculo de envío con Shipit. Enfocada en buenas prácticas de validación, diseño responsive y separación de responsabilidades.
+# Tienda online para la venta y envío de productos relacionados al arte.
 
-**Tienda online para la venta y envío de productos relacionados al arte.**  
+**Aplicación full-stack desarrollada como ejercicio técnico para construir una tienda online con arquitectura MVC, pagos con Flow y cálculo de envío con Shipit. Enfocada en buenas prácticas de validación, diseño responsive y separación de responsabilidades.**  
 Este proyecto está construido con [Lit](https://lit.dev/) y utiliza la pasarela de pago de [Flow](https://www.flow.cl/).
 
 ---
